@@ -1,0 +1,11 @@
+{
+    "STRING_API_URL": "https://string-db.org/api",
+    "OUTPUT_FORMAT": "tsv-no-header",
+    "SPECIES": "9606",
+    "REQUIRED_SCORE": 900,
+    "ALIAS_FILE": "data/9606.protein.aliases.v12.0.txt",
+    "GWAS_FILE": "data/gwas_catalog_v1.0.2-associations_e113_r2024-12-19.tsv",
+    "BATCH_SIZE": 200,
+    "NUM_RANDOM_EDGES": 1000,
+    "MIN_NUM_NODES": 4
+}
