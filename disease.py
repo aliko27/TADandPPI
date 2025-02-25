@@ -9,8 +9,7 @@ from PIL import Image
 from io import BytesIO
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.stats import norm
-import scipy.stats as stats
+from scipy.stats import norm, zscore
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 
@@ -52,6 +51,7 @@ class Disease:
         self.genes = []
         self.proteins = []
         self.interactions = []
+        self.random_edges = []
         self.num_edges = 0
         self.pvalue = 0
         self.z_score = 0
@@ -59,7 +59,7 @@ class Disease:
         with open(config_file, "r") as f:
             self.config = json.load(f)
 
-        self.num_random_edges = self.config["NUM_RANDOM_EDGES"]
+        self.iterations = self.config["RANDOM_EDGES_ITERATIONS"]
         aliases_df = pd.read_csv(self.config['ALIAS_FILE'], sep='\t')
         self.ALL_PROTEINS = set(aliases_df['string_protein_id'].unique().tolist())
         self.MIN_NUM_NODES = self.config['MIN_NUM_NODES']
@@ -71,7 +71,7 @@ class Disease:
     def __str__(self):
         return self.name
 
-    def send_request(self, url, method="GET", data=None, retries=3):
+    def send_request(self, url, method="GET", data=None, retries=10):
         response = None
         for n in range(0, retries):
             try:
@@ -192,8 +192,7 @@ class Disease:
         image = Image.open(BytesIO(response.content))
         image.show()
         
-    def get_random_edges_parallel(self, iterations):
-        random_edge_counts = []
+    def get_random_edges_parallel(self):
 
         # function to handle a single random edge count calculation
         def get_random_edges_single():
@@ -203,21 +202,35 @@ class Disease:
         # use ThreadPoolExecutor to parallelize the random edge retrieval
         with ThreadPoolExecutor() as executor:
             # submit all tasks (iterations) to the pool
-            futures = [executor.submit(get_random_edges_single) for _ in range(iterations)]
+            futures = [executor.submit(get_random_edges_single) for _ in range(self.iterations)]
 
             # collect results as they finish
             for future in as_completed(futures):
                 try:
-                    random_edge_counts.append(future.result())
+                    self.random_edges.append(future.result())
                 except Exception as e:
                     print(f"Error in iteration: {e}")
 
         print(f"Random edges calculation completed\n")
-        return random_edge_counts
+        return self.random_edges
     
-    def compare_statistically(self, random_edges):
-        self.z_score = stats.zscore(random_edges, self.num_edges)
-        print(f"z score for a random nodes: {self.z_score}\n")
+    def compare_statistically(self):
+        mean = np.mean(self.random_edges)
+        std = np.std(self.random_edges)
+        self.z_score = (self.num_edges - mean) / std
+        print(f"z score: {self.z_score}\n")
+        
+        x = np.linspace(min(self.random_edges), max(self.random_edges), 1000)
+        pdf = norm.pdf(x, mean, std)
+        plt.hist(self.random_edges, bins=20, density=True, alpha=0.6, color='blue', label="Random Edge Counts")
+        plt.plot(x, pdf, 'k-', lw=2, label=f'Normal Dist. (μ={mean:.2f}, σ={std:.2f})')
+        plt.axvline(self.num_edges, color='red', linestyle='dashed', linewidth=2, label="Observed Edges")
+
+        plt.title('Distribution of Random Edge Counts')
+        plt.xlabel('Number of Edges')
+        plt.ylabel('Density')
+        plt.legend()
+        plt.show()
 
     def run(self):
         '''To run all the commands at once.'''
@@ -235,14 +248,14 @@ class Disease:
         
         self.get_clustering(self.proteins)
         if self.num_edges < self.MIN_NUM_NODES:
-            print(f"The number of edges in the network is less than the minimum requirement{self.MIN_NUM_NODES}\n")
+            print(f"The number of edges in the network is less than the minimum requirement: {self.MIN_NUM_NODES}\n")
             return None
 
         self.get_ppi_enrichment()
         
+        self.get_random_edges_parallel()
         
+        self.compare_statistically()
         
-        
-        
-        return self.num_edges
+        return self.num_edges, self.pvalue, self.z_score
         

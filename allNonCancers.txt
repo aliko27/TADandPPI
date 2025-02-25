@@ -1,0 +1,1199 @@
+EFO:0000274	atopic eczema
+EFO:0000676	psoriatic arthritis, psoriasis
+EFO:0005427	social communication impairment
+EFO:0006516	superior frontal gyrus grey matter volume measurement
+MONDO:0018309	Hirschsprung disease
+EFO:0006522	asymmetrical dimethylarginine measurement
+EFO:0006523	symmetrical dimethylarginine measurement
+EFO:0004314	forced expiratory volume
+EFO:0005854	allergic rhinitis
+EFO:0003918	obstructive sleep apnea
+EFO:0003884	chronic kidney disease
+EFO:0004239	chronic hepatitis B virus infection
+EFO:0004216	attention deficit hyperactivity disorder, conduct disorder
+EFO:0005426	autism spectrum disorder symptom
+EFO:0003756	autism spectrum disorder
+EFO:0003758	autism
+EFO:0004197	hepatitis B virus infection
+EFO:0000729	ulcerative colitis
+MONDO:0005090	peptic ulcer disease, schizophrenia
+EFO:0004270	restless legs syndrome
+EFO:0004340	body mass index
+MONDO:0004979	asthma
+EFO:0004232	eosinophilic esophagitis
+MONDO:0005301	multiple sclerosis
+EFO:0005532	response to angiotensin-converting enzyme inhibitor, angioedema
+EFO:0004541	Headache, HbA1c measurement
+EFO:0004235	exfoliation syndrome
+MONDO:0007915	systemic lupus erythematosus
+MONDO:0005180	Parkinson disease
+EFO:0004311	heart function measurement
+EFO:0001358	post-traumatic stress disorder
+MONDO:0016046	familial clubfoot with or without associated lower limb anomalies
+EFO:0000341	chronic obstructive pulmonary disease
+EFO:0004465	migraine disorder, fasting blood glucose measurement
+EFO:0004190	open-angle glaucoma
+EFO:0005208	glomerular filtration rate
+MONDO:0007079	alcohol dependence
+EFO:0003894	acne
+EFO:0005187	C-peptide measurement
+EFO:0004307	glucose tolerance test
+EFO:0000537	hypertension
+EFO:0005676	Autoimmune Hepatitis
+EFO:0000555	irritable bowel syndrome
+EFO:0000649	periodontitis
+EFO:0005669	intracerebral hemorrhage
+EFO:0005782	age-related hearing impairment
+MONDO:0005178	COVID-19, osteoarthritis
+EFO:0005678	hippocampal sclerosis of aging
+MONDO:0004975	Alzheimer disease
+EFO:0003888	attention deficit hyperactivity disorder
+EFO:0004265	type 2 diabetes mellitus, peripheral arterial disease
+EFO:0001645	coronary artery disease
+EFO:0004570	bilirubin measurement
+EFO:0004534	response to statin, creatine kinase measurement
+EFO:0000474	epilepsy
+EFO:0003095	non-alcoholic fatty liver disease
+EFO:0004274	gout
+EFO:0006882	suicide behaviour measurement
+EFO:1000656	survival time, sporadic Creutzfeld Jacob disease
+EFO:1000651	recalcitrant atopic dermatitis
+MONDO:0005147	Headache, type 1 diabetes mellitus
+EFO:0005045	visceral Leishmaniasis
+EFO:0005080	CC16 measurement
+EFO:0005081	surfactant protein D measurement
+EFO:0004682	QT interval
+MONDO:0004985	peptic ulcer disease, bipolar disorder
+EFO:0001073	COVID-19, obesity
+EFO:0006333	transferrin saturation measurement
+EFO:0006332	serum iron measurement
+EFO:0000183	Hodgkins lymphoma
+MONDO:0011382	sickle cell anemia
+EFO:0004467	insulin measurement
+EFO:0004252	nasopharyngeal neoplasm
+EFO:0000217	gastritis
+MONDO:0005148	type 2 diabetes mellitus
+EFO:0004351	resting heart rate
+EFO:0006788	anxiety disorder
+EFO:0004579	serum IgE measurement
+EFO:0700076	isolated scaphocephaly
+EFO:0003819	dental caries
+EFO:0004611	low density lipoprotein cholesterol measurement
+MONDO:0005129	cataract
+EFO:0004535	serum albumin measurement
+EFO:0005420	grey matter volume measurement
+EFO:0004776	alcohol and nicotine codependence
+EFO:0005668	anterior chamber depth measurement
+MONDO:0015263	Brugada syndrome
+EFO:0004214	Abdominal Aortic Aneurysm
+Orphanet:93957	Limb dystonia
+EFO:0004220	chronic hepatitis C virus infection
+EFO:0000403	diffuse large B-cell lymphoma
+MONDO:0018092	Vogt-Koyanagi-Harada disease
+EFO:0006342	aggressive periodontitis
+EFO:0005942	response to bevacizumab, chemotherapy-induced hypertension
+MONDO:0011599	birdshot chorioretinopathy
+EFO:0004791	tissue plasminogen activator measurement
+EFO:0000195	response to antipsychotic drug, metabolic syndrome
+EFO:0005039	hippocampal atrophy
+EFO:0005035	hippocampal volume
+EFO:0006806	memory performance, paragraph delayed recall measurement
+EFO:0004874	memory performance
+EFO:0007017	peanut allergy measurement
+EFO:0007019	milk allergy measurement
+EFO:0007018	egg allergy measurement
+EFO:0007016	food allergy measurement
+EFO:0004683	wet macular degeneration
+EFO:0009184	heart rate response to exercise
+EFO:0009185	heart rate response to recovery post exercise
+EFO:0009104	hyperuricemia
+EFO:0005611	opioid dependence
+EFO:0000685	rheumatoid arthritis
+EFO:0007619	suicide ideation measurement
+EFO:0000612	myocardial infarction
+EFO:1001254	noise-induced hearing loss
+EFO:1001507	asparaginase-induced acute pancreatitis
+EFO:0007660	neuroticism measurement
+EFO:0007785	femoral neck bone mineral density
+EFO:0007702	hip bone mineral density
+EFO:0007701	spine bone mineral density
+EFO:0006790	cerebral amyloid angiopathy
+EFO:0009459	ACPA-positive rheumatoid arthritis
+EFO:0000404	diffuse scleroderma
+EFO:0000717	systemic scleroderma
+EFO:1001017	limited scleroderma
+EFO:0009094	idiopathic dilated cardiomyopathy
+EFO:0005203	eating disorder
+EFO:0007744	lung disease severity measurement
+EFO:0004710	pelvic organ prolapse
+MONDO:0017276	frontotemporal dementia
+EFO:0008457	cannabis dependence measurement
+EFO:1001926	pathological gambling
+EFO:1001925	pneumococcal bacteremia
+EFO:0003033	bacteriemia
+EFO:0003948	gastroesophageal reflux disease
+EFO:0001060	celiac disease
+MONDO:0022308	corticobasal degeneration disorder
+EFO:0000180	HIV-1 infection
+EFO:1001490	late-onset myasthenia gravis
+EFO:0004254	membranous glomerulonephritis
+MONDO:0005277	migraine disorder
+MONDO:0011847	migraine without aura, susceptibility to, 4
+EFO:0000699	Sjogren syndrome
+EFO:1001928	small intestine neuroendocrine tumor
+EFO:0005220	pulmonary neuroendocrine tumor
+EFO:1001999	systemic juvenile idiopathic arthritis
+EFO:0002609	juvenile idiopathic arthritis
+EFO:0007006	depressive symptom measurement
+EFO:0000660	polycystic ovary syndrome
+EFO:0005413	joint damage measurement
+EFO:0007663	childhood aggressive behaviour measurement
+EFO:0007679	oppositional defiant disorder measurement
+EFO:1001510	specific language impairment
+EFO:0004468	glucose measurement
+EFO:0004763	p-tau measurement
+EFO:0004670	beta-amyloid 1-42 measurement
+EFO:0004760	t-tau measurement
+EFO:0000712	stroke
+MONDO:0018076	tuberculosis
+MONDO:0002009	nervousness, generalized anxiety disorder, major depressive disorder
+EFO:0004713	FEV/FVC ratio
+EFO:0007869	wellbeing measurement
+EFO:0007803	guilt measurement, emotional symptom measurement
+EFO:0001068	malaria
+EFO:0003768	nicotine dependence
+EFO:0005681	Staphylococcus aureus infection
+EFO:1001489	skin and soft tissue Staphylococcus aureus infection
+EFO:1001466	Graves ophthalmopathy
+EFO:1001293	collagenous colitis
+EFO:1001493	Ischemic stroke, cardiac embolism
+EFO:0004240	heroin dependence
+MONDO:0005271	allergic disease
+EFO:0004705	rheumatoid arthritis, hypothyroidism
+EFO:0007927	trait in response to paliperidone, schizophrenia symptom severity measurement
+EFO:0005937	longitudinal BMI measurement
+EFO:1001434	Tendinopathy
+EFO:1002012	ligament rupture
+EFO:0007969	cognitive inhibition measurement
+MONDO:0004992	response to bevacizumab, overall survival, cancer
+EFO:0000275	atrial fibrillation
+EFO:0005037	aortic root size
+EFO:0004826	anti-neutrophil antibody associated vasculitis
+EFO:0004288	rectum cancer, colonic neoplasm
+EFO:0004268	sclerosing cholangitis
+EFO:0007941	lumbar disc herniation, Sciatica, LDH-related sciatica symptom severity measurement
+EFO:0007865	loneliness measurement
+EFO:1001504	small vessel stroke
+EFO:0005524	large artery stroke
+EFO:0005763	pulse pressure measurement
+EFO:0007934	response to tenofovir, creatinine clearance measurement
+EFO:0000756	survival time, melanoma
+EFO:0004286	venous thromboembolism
+EFO:0004191	androgenetic alopecia
+EFO:0007781	depressive symptom measurement, stressful life event measurement
+EFO:1001050	multiple system atrophy
+EFO:0008535	post-traumatic stress disorder symptom measurement
+EFO:0001065	asthma, endometriosis
+EFO:0007804	LDL cholesterol change measurement
+EFO:0005423	adolescent idiopathic scoliosis
+EFO:0005543	progression free survival, glioma
+EFO:0008036	BMI-adjusted fasting blood glucose measurement
+EFO:0004326	heart rate
+EFO:0007627	airway imaging measurement
+EFO:0000384	sex interaction measurement, Crohn's disease
+EFO:0003767	inflammatory bowel disease
+EFO:1001930	response to steroid, systemic lupus erythematosus, idiopathic osteonecrosis of the femoral head
+MONDO:0019438	heart amyloid deposition measurement, AL amyloidosis
+EFO:0004749	CCL2 measurement
+EFO:0007835	coffee consumption measurement, alcohol dependence measurement
+Orphanet:2828	Young adult-onset Parkinsonism
+EFO:0004228	trait in response to traditional medicine, drug-induced liver injury
+EFO:0004992	Otitis media
+EFO:0005213	central corneal thickness
+EFO:0003108	essential tremor
+EFO:0005055	QRS duration
+EFO:0005054	QRS complex
+EFO:0007860	aggressive behaviour measurement, ADHD symptom measurement
+EFO:0005766	skin fluorescence measurement
+EFO:0004695	intraocular pressure measurement
+EFO:1002009	macular telangiectasia type 2
+EFO:1002006	treatment-resistant hypertension
+EFO:0004606	gallbladder neoplasm
+EFO:0006501	carotid plaque build
+EFO:0004518	creatinine measurement
+EFO:0004741	blood urea nitrogen measurement
+EFO:0005410	tooth agenesis
+EFO:1001870	late-onset Alzheimers disease
+EFO:0004708	nodular sclerosis Hodgkin lymphoma
+EFO:1002031	Hodgkins lymphoma, mixed cellularity
+EFO:0004746	lipoprotein-associated phospholipase A(2) measurement
+EFO:0008433	pursuit maintenance gain measurement
+EFO:0008434	initial pursuit acceleration
+EFO:0008432	response to darapladib, lipoprotein-associated phospholipase A(2) change measurement
+EFO:0006919	response to candesartan, cardiovascular event measurement
+EFO:0007536	vesicoureteral reflux
+EFO:0004462	PR interval
+EFO:0000768	idiopathic pulmonary fibrosis
+Orphanet:98974	Fuchs endothelial corneal dystrophy
+EFO:0001361	pulmonary arterial hypertension
+EFO:0005406	colorectal cancer, colorectal adenoma
+EFO:0000095	chronic lymphocytic leukemia
+EFO:0000764	HIV infection
+EFO:0007949	acute-on-chronic liver failure
+EFO:0007933	radius bone mineral density
+EFO:0007621	bone mineral content measurement
+EFO:1002000	Takotsubo cardiomyopathy
+EFO:0000401	diabetic nephropathy
+EFO:0005850	emphysema pattern measurement
+EFO:0004210	stroke, gallstones
+EFO:0001054	leprosy
+EFO:0009189	hyperthyroidism
+EFO:0009268	family history of Alzheimer’s disease
+EFO:1000831	bacterial meningitis
+EFO:0010271	pneumococcal meningitis, bacterial pathogen genotype measurement
+EFO:1001114	pneumococcal meningitis
+EFO:0004255	nephrotic syndrome
+EFO:0009270	heel bone mineral density
+EFO:0010133	diabetic maculopathy
+EFO:0009289	left ventricular mass
+EFO:0009286	heart relative wall thickness
+EFO:0004985	platelet reactivity measurement
+EFO:0010151	soluble triggering receptor expressed on myeloid cells 2 measurement
+EFO:0010143	chronic mountain sickness
+MONDO:0018906	rheumatoid arthritis, follicular lymphoma
+EFO:0009592	social interaction measurement
+EFO:0007149	appendicitis
+EFO:0007636	attention function measurement
+EFO:0004777	alcohol withdrawal
+EFO:0004238	hearing loss
+EFO:0004149	diabetic foot, neuropathy
+EFO:0004273	scoliosis
+EFO:0009522	disturbance of skin sensation
+EFO:1000749	pemphigus
+EFO:0004719	pemphigus vulgaris
+EFO:0010120	fasting blood glucose change measurement
+EFO:0004593	gestational diabetes
+EFO:0005279	temporomandibular joint disorder
+EFO:0009363	chronic central serous retinopathy
+EFO:0009322	proliferative diabetic retinopathy
+EFO:0003770	diabetic retinopathy
+EFO:0000284	benign prostatic hyperplasia
+EFO:0010125	viral load
+EFO:0009331	erosive tooth wear measurement
+EFO:0000280	Barrett's esophagus
+EFO:0006798	neuritic plaque measurement
+EFO:0004242	obsessive-compulsive disorder
+EFO:0001421	liver disease
+EFO:0004208	Vitiligo
+EFO:0004616	osteoarthritis, knee
+EFO:1000786	osteoarthritis, hip
+EFO:0010229	phosphatidylethanolamine ether measurement
+EFO:0010230	phosphatidylinositol measurement
+EFO:0010226	phosphatidylcholine measurement
+EFO:0010227	phosphatidylcholine ether measurement
+EFO:0010228	phosphatidylethanolamine measurement
+EFO:0010225	lysophosphatidylethanolamine measurement
+EFO:1000881	coronary aneurysm
+EFO:0007877	Uterine leiomyoma, risky sexual behaviour measurement
+EFO:0009367	glucose metabolism measurement
+EFO:0010222	ceramide measurement
+EFO:0010223	diglyceride measurement
+EFO:0010224	lysophosphatidylcholine measurement
+EFO:1001209	temporal arteritis
+EFO:0005843	cortisol measurement
+EFO:0009587	anhedonia measurement
+EFO:1001486	primary biliary cirrhosis
+EFO:0008475	mood instability measurement
+EFO:0010445	cocaine use disorder
+EFO:0010178	non-lobar intracerebral hemorrhage
+EFO:0010177	lobar intracerebral hemorrhage
+HP:0020046	Accommodative esotropia
+MONDO:0001020	amblyopia
+MONDO:0004891	hyperopia
+HP:0031760	Non-accomodative esotropia
+EFO:0004244	interstitial lung disease
+MONDO:0010826	childhood absence epilepsy
+MONDO:0009696	juvenile myoclonic epilepsy
+EFO:0004263	partial epilepsy
+EFO:0005917	generalised epilepsy
+EFO:1000826	atrophic gastritis
+EFO:0005411	bipolar disorder, schizophrenia, schizoaffective disorder
+EFO:0010126	time to first cigarette measurement
+EFO:0008398	T wave morphology measurement
+EFO:0009178	neurofilament light chain measurement
+MONDO:0002491	mental or behavioural disorder, substance abuse
+EFO:0003912	ankle brachial index
+EFO:0010068	response to corticosteroid, response to salmeterol, respiratory symptom change measurement
+EFO:1001243	Exercise induced anaphylaxis, wheat allergic reaction
+EFO:0000731	age at first birth measurement, uterine fibroid
+EFO:0004234	erectile dysfunction
+EFO:0010553	cocaine use measurement
+EFO:1001482	response to trastuzumab, cardiotoxicity
+MONDO:0005405	childhood onset asthma
+EFO:0004701	alcohol dependence, heroin dependence, methamphetamine dependence
+EFO:0009332	executive function measurement
+EFO:0004466	Headache, fasting blood insulin measurement
+EFO:0004735	serum alanine aminotransferase measurement
+EFO:0009896	thyroid peroxidase antibody measurement, anti-thyroglobulin antibody measurement
+EFO:0004736	aspartate aminotransferase measurement
+EFO:0003047	seropositivity measurement, hepatitis C virus infection
+EFO:0007783	mosaic loss of chromosome Y measurement
+EFO:0009963	bipolar II disorder, bipolar I disorder
+EFO:0009964	bipolar II disorder
+EFO:0009965	Schizoaffective disorder-bipolar type
+MONDO:0005041	glaucoma
+EFO:0004644	TPE interval measurement
+EFO:0007707	cerebral amyloid deposition measurement
+EFO:0003931	bone fracture
+EFO:0008373	left ventricular ejection fraction measurement
+EFO:0007208	Churg-Strauss syndrome
+EFO:0003923	bone density
+MONDO:0015337	isolated craniosynostosis
+EFO:0008511	metopic craniosynostosis
+EFO:0004830	brain volume measurement, caudate nucleus volume
+EFO:0010221	systemising measurement
+EFO:1001857	Takayasu arteritis
+EFO:0009863	anxiety measurement
+EFO:0004262	panic disorder
+EFO:0004211	Hypertriglyceridemia
+EFO:0003144	heart failure
+EFO:0007802	obsessive-compulsive symptom measurement
+MONDO:0004976	amyotrophic lateral sclerosis
+EFO:0007979	childhood trauma measurement
+EFO:1001976	cardioembolic stroke
+EFO:0007135	adult-onset Still's disease
+MONDO:0043424	digestive system infectious disorder
+EFO:0009523	fecal incontinence
+EFO:0005000	leptin measurement
+EFO:0004980	appendicular lean mass
+EFO:0005773	retinal detachment
+EFO:0010698	retinal detachment, retinal break
+EFO:0005240	rhegmatogenous retinal detachment
+MONDO:0016158	narcolepsy-cataplexy syndrome
+EFO:0005243	myeloperoxidase measurement
+EFO:0005918	osteoprotegerin measurement
+EFO:0004617	cystatin C measurement
+EFO:0004253	nephrolithiasis
+MONDO:0003783	response to dimethyl fumarate, lymphopenia
+EFO:0004469	Headache, HOMA-B
+EFO:0004501	Headache, HOMA-IR
+MONDO:0004892	refractive error
+EFO:1000024	chronic rhinosinusitis
+EFO:0004698	insomnia
+EFO:0010699	diffuse plaque measurement
+EFO:0001422	cirrhosis of liver
+EFO:0007620	volumetric bone mineral density
+EFO:0007052	attention deficit hyperactivity disorder, substance abuse, antisocial behaviour measurement
+EFO:0000094	B-cell acute lymphoblastic leukemia
+MONDO:0000327	Buruli ulcer disease
+EFO:0006792	Lewy body dementia
+EFO:0004277	brain infarction
+EFO:0003780	Behcet's syndrome
+EFO:0009001	Mastocytosis
+EFO:1002040	Corneal astigmatism
+EFO:0000198	myelodysplastic syndrome
+EFO:0007795	anxiety disorder measurement
+EFO:0007885	JT interval
+EFO:0009707	fractures, ununited
+EFO:0010576	liver fibrosis measurement
+EFO:0010638	atopic asthma
+EFO:0008573	alcoholic liver disease
+EFO:0000319	cardiovascular disease
+MONDO:0016642	meningioma
+MONDO:0015474	cryptosporidiosis
+EFO:1000637	acute respiratory distress syndrome
+EFO:0009266	refractory celiac disease
+EFO:0009179	beta-secretase 1 measurement
+EFO:0005140	autoimmune disease
+EFO:0009549	female reproductive system disease
+EFO:0009321	diabetic macular edema
+EFO:0005298	allergic sensitization measurement
+EFO:0006805	word list delayed recall measurement
+EFO:0000557	juvenile dermatomyositis
+EFO:0003063	polymyositis
+EFO:0000783	myositis
+EFO:0000400	diabetes mellitus
+MONDO:0100096	telomere length, COVID-19
+EFO:0008463	glucagon measurement
+EFO:0003958	sunburn
+EFO:0005424	dyslexia
+EFO:0010702	opioid use disorder
+EFO:0010723	ocular sarcoidosis
+EFO:0000266	aortic stenosis
+EFO:0000684	respiratory system disease
+EFO:0004256	neuromyelitis optica
+EFO:0009584	AQP4-IgG-positive neuromyelitis optica
+EFO:0010725	revision of total joint arthroplasty, aseptic loosening
+EFO:0009373	response to radiation, edema
+EFO:0007614	asthma exacerbation measurement
+EFO:0009482	drug allergy
+EFO:1000789	osteoarthritis, hand
+EFO:0009323	alpha synuclein measurement
+EFO:0009345	Hepatitis B virus surface antigen seropositivity
+EFO:0005425	Alzheimer disease, language impairment
+EFO:0009330	Chlamydia trachomatis seropositivity
+EFO:0004832	optic disc size measurement
+EFO:0010557	lactose tolerance test
+EFO:0009324	chronic kidney disease, APOL1 risk genotype carrier status
+NCIT:C117245	quality of life during menstruation measurement, decreased attention
+NCIT:C95746	quality of life during menstruation measurement, sleepiness
+EFO:0004608	cystic fibrosis associated meconium ileus
+EFO:0003870	brain aneurysm
+EFO:0004895	Tourette syndrome
+EFO:0008419	susceptibility to chronic sinus infection measurement
+EFO:0008418	susceptibility to rubella infection measurement
+EFO:1002013	alcoholic pancreatitis
+EFO:0008003	heart rate variability measurement
+MONDO:0015397	craniofacial microsomia
+EFO:0000621	neuroblastoma
+EFO:0001357	sporadic amyotrophic lateral sclerosis
+EFO:0002686	atopy
+EFO:1001249	non-alcoholic steatohepatitis
+EFO:0004775	Stevens-Johnson syndrome, toxic epidermal necrolysis
+EFO:1002003	response to reverse transcriptase inhibitor, hypersensitivity reaction disease
+EFO:0007983	HIV-associated neurocognitive disorder, asymptomatic neurocognitive impairment
+EFO:0007982	HIV-associated neurocognitive disorder, mild neurocognitive disorder
+EFO:0007948	HIV-associated neurocognitive disorder
+EFO:0004520	ICAM-1 measurement
+MONDO:0005351	irritable bowel syndrome, anorexia nervosa
+EFO:0004192	alopecia areata
+EFO:1001459	diabetic foot
+EFO:0004471	insulin sensitivity measurement
+MONDO:0016581	conotruncal heart malformations
+EFO:0005938	congenital left-sided heart lesions
+EFO:0005207	congenital heart disease
+EFO:1002019	oligoarticular juvenile idiopathic arthritis
+EFO:0007708	t-tau:beta-amyloid 1-42 ratio measurement
+EFO:0008421	non-alcoholic fatty liver disease severity measurement
+EFO:0008388	gamma wave measurement
+EFO:0001365	age-related macular degeneration
+EFO:0004237	Graves disease
+EFO:0003779	Hashimoto's thyroiditis
+EFO:0008400	susceptibility to chickenpox measurement
+EFO:0008401	susceptibility to shingles measurement
+EFO:0008402	susceptibility to cold sores measurement
+EFO:0008404	susceptibility to mumps measurement
+EFO:0008406	susceptibility to plantar warts measurement
+EFO:0008411	susceptibility to bacterial meningitis measurement
+EFO:0008412	susceptibility to vaginal yeast infection measurement
+EFO:0008417	susceptibility to common cold measurement
+EFO:0008415	susceptibility to hepatitis A infection measurement
+EFO:0008416	susceptibility to rheumatic fever measurement
+EFO:0008414	susceptibility to measles measurement
+EFO:1001253	trait in response to phenytoin, maculopapular eruption
+EFO:0008536	anti-centromere-antibody-positive systemic scleroderma
+EFO:0008537	anti-topoisomerase-I-antibody-positive systemic scleroderma
+EFO:0007790	Epstein Barr virus nuclear antigen 1 IgG measurement
+EFO:0009271	Epstein Barr virus nuclear antigen-1 seropositivity
+EFO:0009272	Epstein Barr viral capsid antigen seropositivity
+EFO:0009273	anti-Epstein Barr virus antibody measurement
+EFO:0010559	response to interferon-beta, anti-drug antibody measurement
+EFO:0004266	primary ovarian insufficiency
+EFO:1000566	Testicular Germ Cell Tumor
+EFO:0002689	antiphospholipid syndrome
+EFO:0007191	cannabis dependence
+MONDO:0019338	sarcoidosis
+EFO:1000764	seborrheic dermatitis
+EFO:0008403	susceptibility to mononucleosis measurement
+EFO:0008405	susceptibility to hepatitis B infection measurement
+EFO:0008409	susceptibility to scarlet fever measurement
+EFO:0008410	susceptibility to pneumonia measurement
+EFO:0008413	susceptibility to urinary tract infection measurement
+EFO:0008408	susceptibility to strep throat measurement
+EFO:0008000	peak insulin response measurement
+EFO:0006831	glucose homeostasis measurement, acute insulin response measurement
+EFO:0008001	insulin secretion measurement
+EFO:0006832	disposition index measurement
+EFO:0004514	bone quantitative ultrasound measurement
+EFO:1001161	rheumatic heart disease
+EFO:0003898	Sacroiliac arthritis, ankylosing spondylitis
+EFO:0004599	acute graft vs. host disease
+EFO:0005128	albumin:globulin ratio measurement
+EFO:0005924	binge eating
+EFO:0009598	feeling miserable measurement
+EFO:0009595	guilt measurement
+EFO:0009589	worry measurement
+EFO:0009588	feeling "fed-up" measurement
+EFO:0009599	feeling emotionally hurt measurement
+EFO:0009596	feeling tense measurement
+EFO:0005527	ejection fraction measurement
+EFO:0009285	fractional shortening
+EFO:0008390	prothrombin time measurement
+EFO:1002021	ankle injury
+EFO:0009594	irritability measurement
+EFO:0009597	feeling nervous measurement
+NCIT:C74532	nervousness
+EFO:0003902	spinal fracture
+EFO:1001506	primary angle closure glaucoma
+EFO:0007830	eating behaviour, food addiction measurement
+MONDO:0016820	Moyamoya disease
+EFO:1002029	chronic rhinosinusitis with nasal polyps
+EFO:0008467	behavioural inhibitory control measurement
+EFO:0008476	delayed reward discounting measurement
+EFO:1001494	psoriasis vulgaris
+EFO:0004229	Dupuytren Contracture
+EFO:0004696	sex hormone-binding globulin measurement
+EFO:0008368	infant grey matter volume measurement
+EFO:0004860	common carotid intimal medial thickness
+EFO:1000802	alcoholic liver cirrhosis
+EFO:0003890	drug dependence
+EFO:0000398	dermatomyositis
+EFO:1001929	selective IgA deficiency disease
+EFO:0008473	insulin sensitivity measurement, insulin response measurement
+EFO:0008469	B-type natriuretic peptide to N-terminal pro B-type natriuretic peptide ratio
+EFO:0008468	midregional pro atrial natriuretic peptide measurement
+EFO:0004745	NT-proBNP measurement
+EFO:0006920	BNP measurement
+EFO:0004246	mucocutaneous lymph node syndrome
+EFO:0008532	clinically amyopathic dermatomyositis
+EFO:0004573	chemerin measurement
+EFO:1000965	Henoch-Schoenlein purpura
+EFO:0008379	P wave terminal force measurement
+EFO:0005094	P wave duration
+EFO:0000220	acute lymphoblastic leukemia
+EFO:0000769	antibody measurement, Epstein-Barr virus infection
+EFO:0007741	QRS amplitude, R wave amplitude
+Orphanet:391311	HIV-1 infection, Susceptibility to viral and mycobacterial infections
+EFO:0005239	aortic stenosis, aortic valve calcification
+EFO:0009087	non-typhoidal Salmonella bacteremia
+MONDO:0004907	alopecia
+EFO:0000278	pancreatitis
+EFO:0000405	trait in response to thiopurine, digestive system disease
+EFO:0003928	necrotizing enterocolitis
+EFO:1000481	Plantar Fasciitis, Plantar Fibromatosis
+EFO:0004993	serum IgM measurement
+EFO:0009010	HSV2 virologic severity measurement
+EFO:1001483	non-obstructive coronary artery disease
+EFO:1000783	diabetic neuropathy
+EFO:0010977	macrovascular complications of diabetes
+EFO:0009486	diabetic eye disease
+EFO:0010821	liver fat measurement
+EFO:0004257	neurotic disorder
+EFO:1002011	adult onset asthma
+EFO:0006845	liver fat measurement, liver disease biomarker
+EFO:0007793	BMI-adjusted leptin measurement
+EFO:0009458	alcohol use disorder measurement
+EFO:0004328	exercise test
+EFO:0006812	autoimmune thyroid disease
+EFO:0005194	amyloid-beta measurement
+MONDO:0005475	migraine with aura
+EFO:0010934	aspartate aminotransferase to alanine aminotransferase ratio
+EFO:0010819	clonal hematopoiesis
+EFO:1001289	Cholecystitis, Acute
+EFO:0009953	response to surgery, post-operative myocardial infarction
+EFO:0009954	response to surgery, post-operative delirium
+EFO:0010820	spontaneous coronary artery dissection
+EFO:0000677	age at diagnosis, mental or behavioural disorder
+MONDO:0021187	hyperlipidemia
+EFO:0004269	cardiac arrhythmia
+EFO:1000811	anterior uveitis
+EFO:0003882	osteoporosis
+EFO:0004327	electrocardiography
+EFO:0600041	serum clozapine measurement
+EFO:0600043	serum N-desmethylclozapine measurement
+EFO:0600042	serum clozapine-to-N-desmethylclozapine ratio measurement
+EFO:0011023	concussion
+MONDO:0019171	familial long QT syndrome
+EFO:1001178	shoulder impingement syndrome
+EFO:1000886	cutaneous mastocytosis
+MONDO:0016586	systemic mastocytosis
+EFO:0004517	arterial stiffness measurement
+EFO:0010822	stenosing tenosynovitis
+EFO:0004278	sudden cardiac arrest
+EFO:0004247	mood disorder
+EFO:0000464	emphysema
+EFO:0004226	Creutzfeldt Jacob Disease
+EFO:0004213	otosclerosis
+EFO:0004913	lentiform nucleus measurement
+EFO:0004795	skin sensitivity to sun
+EFO:0005129	hepatitis C induced liver cirrhosis
+EFO:0004707	infantile hypertrophic pyloric stenosis
+EFO:0000765	AIDS
+EFO:0004267	biliary liver cirrhosis
+EFO:0006338	pit and fissure surface dental caries
+EFO:0006339	smooth surface dental caries
+EFO:0005196	vasoactive peptide measurement
+EFO:0003926	neuropsychological test
+EFO:0004243	carcinoid tumor
+EFO:0004209	hypospadias
+EFO:0004815	alpha macroglobulin measurement
+EFO:0003956	seasonal allergic rhinitis
+EFO:0004772	early onset hypertension
+EFO:0004212	Keloid
+MONDO:0008867	biliary atresia
+EFO:0004864	renal sinus adipose tissue measurement
+EFO:0005126	arylesterase enzyme measurement
+EFO:0004511	femoral neck bone geometry
+EFO:0005131	HVA measurement
+EFO:0005133	HVA measurement, MHPG measurement
+EFO:0004994	lumbar disc degeneration
+EFO:0000279	azoospermia
+EFO:0004510	HPV seropositivity
+MONDO:0000358	orofacial cleft
+MONDO:0019037	progressive supranuclear palsy
+EFO:0004537	neonatal systemic lupus erythematosus
+EFO:0005139	serum ceruloplasmin measurement
+EFO:0004227	Dengue Hemorrhagic Fever
+EFO:0005246	hypersomnia
+EFO:0000625	nevus
+EFO:0004806	lung carcinoma, asbestos exposure measurement
+EFO:0000668	preeclampsia
+EFO:1001492	atrophic macular degeneration
+EFO:0004259	age at diagnosis, osteonecrosis
+EFO:0004284	upper aerodigestive tract neoplasm
+EFO:0004345	corneal topography
+EFO:0004789	atrial natriuretic factor measurement
+EFO:0004846	serotonin measurement
+EFO:0003757	Asperger syndrome
+EFO:0004831	RR interval
+EFO:0004785	neuroimaging measurement, South Texas Assessment of Neurocognition
+EFO:0005242	methamphetamine-induced psychosis
+MONDO:0016243	hemoglobin E disease
+EFO:0004225	Coronary Vasospasm
+EFO:0005053	internal carotid intimal medial thickness
+EFO:0004550	amygdala reactivity measurement
+EFO:0004569	brain serotonin transporter measurement
+EFO:0000574	lymphoma
+EFO:0000540	immune system disease
+EFO:0000096	neoplasm of mature B-cells
+EFO:0005095	PR segment
+EFO:0004519	adhesion molecule measurement, soluble P-selectin measurement
+EFO:0005269	congenital heart malformation
+EFO:0000407	dilated cardiomyopathy
+EFO:0004236	focal segmental glomerulosclerosis
+EFO:0004720	prion disease
+EFO:0004572	C4BP measurement
+MONDO:0009061	cystic fibrosis
+EFO:0004642	cortisol secretion measurement
+EFO:0005321	molar-incisor hypomineralization
+EFO:0005416	serum ST2 measurement
+EFO:0003839	retinopathy
+EFO:0003086	kidney disease
+EFO:0004609	treatment refractory schizophrenia
+EFO:0004194	IGA glomerulonephritis
+EFO:0004224	Coronary Restenosis
+EFO:0003867	response to statin, rhabdomyolysis
+EFO:0004607	duodenal ulcer
+EFO:0004261	osteitis deformans
+EFO:0002608	AIDS dementia
+EFO:0005400	chemotherapy-induced alopecia
+EFO:0004313	maximal midexpiratory flow rate
+MONDO:0019201	Graves disease, thyrotoxic periodic paralysis
+EFO:0001062	schizophrenia, cytomegalovirus infection
+EFO:0006319	HIV viral set point measurement
+EFO:0003778	psoriatic arthritis
+EFO:0004507	D dimer measurement
+EFO:0005204	bulimia nervosa
+MONDO:0018150	Gaucher disease
+EFO:0005252	orthostatic hypotension
+EFO:0004230	colorectal cancer, endometrial neoplasm
+EFO:0004280	movement disorder
+EFO:0010352	diacylglycerol 34:1 measurement
+EFO:0010353	diacylglycerol 34:2 measurement
+EFO:0010354	diacylglycerol 36:1 measurement
+EFO:0010355	diacylglycerol 36:2 measurement
+EFO:0005297	Granulomatosis with Polyangiitis
+EFO:0010386	phosphatidylcholine 38:4 measurement
+EFO:0010387	phosphatidylcholine 38:5 measurement
+EFO:0010388	phosphatidylcholine 38:6 measurement
+EFO:0010389	phosphatidylcholine 40:6 measurement
+EFO:0010384	phosphatidylcholine 38:2 measurement
+EFO:0010385	phosphatidylcholine 38:3 measurement
+EFO:0004724	carotid-femoral pulse wave velocity
+EFO:0005529	Chagas cardiomyopathy
+EFO:0005528	parasitemia measurement
+EFO:0010356	lysophosphatidylcholine 14:0 measurement
+EFO:0010358	lysophosphatidylcholine 16:1 measurement
+EFO:0004249	meningococcal infection
+EFO:0010361	lysophosphatidylcholine 18:2 measurement
+EFO:0010362	lysophosphatidylcholine 20:3 measurement
+EFO:0010363	lysophosphatidylcholine 20:4 measurement
+EFO:0010359	lysophosphatidylcholine 18:0 measurement
+EFO:0010360	lysophosphatidylcholine 18:1 measurement
+EFO:0010365	lysophosphatidylcholine 22:6 measurement
+EFO:0010366	lysophosphatidylethanolamine 16:0 measurement
+EFO:0010367	lysophosphatidylethanolamine 18:0 measurement
+MONDO:0015486	keratoconus
+EFO:0010364	lysophosphatidylcholine 20:5 measurement
+EFO:0010369	lysophosphatidylethanolamine 18:2 measurement
+EFO:0010370	lysophosphatidylethanolamine 20:4 measurement
+EFO:0010371	lysophosphatidylethanolamine 22:6 measurement
+EFO:0010368	lysophosphatidylethanolamine 18:1 measurement
+EFO:0005250	occupation-related stress disorder
+EFO:0007787	plasma betaine measurement
+EFO:0010372	phosphatidylcholine 32:0 measurement
+EFO:0005672	cystatin C measurement, acute coronary syndrome
+EFO:0003100	peripheral neuropathy
+EFO:0010374	phosphatidylcholine 32:2 measurement
+EFO:0010375	phosphatidylcholine 34:1 measurement
+EFO:0010376	phosphatidylcholine 34:2 measurement
+EFO:0010373	phosphatidylcholine 32:1 measurement
+EFO:0010377	phosphatidylcholine 34:3 measurement
+EFO:0010378	phosphatidylcholine 34:4 measurement
+EFO:0010379	phosphatidylcholine 36:1 measurement
+EFO:0010381	phosphatidylcholine 36:3 measurement
+EFO:0010382	phosphatidylcholine 36:4 measurement
+EFO:0010383	phosphatidylcholine 36:5 measurement
+EFO:0005654	velocity of sound measurement
+EFO:0005419	contrast sensitivity measurement
+EFO:0006876	seasonality measurement
+EFO:0003827	pulmonary embolism
+EFO:1001495	Ischemic stroke, small artery occlusion
+EFO:1001022	low tension glaucoma
+MONDO:0015926	trait in response to silicon dioxide, pneumoconiosis
+EFO:0005659	plasma beta-amyloid 1-40 measurement
+EFO:0005660	plasma beta-amyloid 1-42 measurement
+EFO:0004635	leptin receptor measurement
+EFO:0006829	response to transplant, GFR change measurement
+EFO:1000059	cervical artery dissection
+EFO:0006511	Kashin-Beck disease
+EFO:0006789	typhoid fever
+EFO:0005407	psychosis
+EFO:0005851	height-adjusted body mass index
+EFO:0005895	ossification of the posterior longitudinal ligament of the spine
+MONDO:0019091	bronchopulmonary dysplasia
+EFO:0002610	cocaine dependence
+EFO:0005627	perianal Crohn's disease
+EFO:0005846	cryoglobulinemia
+EFO:0006833	glucose homeostasis measurement, glucose effectiveness measurement
+EFO:0005661	Child Behaviour Checklist assessment
+EFO:0005761	lupus nephritis
+EFO:0006510	Herpes Zoster
+EFO:0005320	contact dermatitis due to nickel
+EFO:0006826	trans fatty acid measurement, trans/trans-18:2 fatty acid measurement
+EFO:0006505	chronic bronchitis
+EFO:0004991	Myasthenia gravis
+EFO:0006821	cis/trans-18:2 fatty acid measurement, trans fatty acid measurement
+EFO:0006822	trans fatty acid measurement, trans-16:1n-7 fatty acid measurement
+EFO:0005936	underweight body mass index status
+EFO:0005935	overweight body mass index status
+EFO:0004282	thoracic aortic aneurysm
+EFO:0005043	cardiac troponin T measurement
+EFO:0006795	serum VEGFR2 concentration measurement
+EFO:0007035	seropositivity measurement, Chlamydia pneumoniae seropositivity
+EFO:0007039	seropositivity measurement, human herpesvirus 8 seropositivity
+EFO:0007037	cytomegalovirus seropositivity
+EFO:0007036	herpes virus seropositivity
+EFO:0006906	trait in response to abacavir, virologic response measurement
+MONDO:0020476	mesial temporal lobe epilepsy with hippocampal sclerosis
+EFO:0006315	trait in response to thiopurine, thiopurine immunosuppressant-induced pancreatitis
+EFO:0006793	cerebrospinal fluid biomarker measurement, t-tau measurement, left inferior lateral ventricle volume measurement
+EFO:0003914	atherosclerosis
+EFO:0005412	functional impairment measurement
+EFO:0006828	plasma renin activity measurement
+EFO:0003834	cutaneous lupus erythematosus
+EFO:1000648	developmental dysplasia of the hip
+EFO:0007772	calcaneal bone quantitative ultrasound measurement
+EFO:0007700	exploratory eye movement measurement
+EFO:0007704	manic episode measurement, depressive episode measurement
+EFO:0007709	p-tau:beta-amyloid 1-42 ratio measurement
+EFO:0006801	dementia, Alzheimer's disease neuropathologic change
+EFO:0006799	Lewy body dementia, Lewy body dementia measurement
+EFO:0006791	vascular brain injury
+EFO:1000478	Pituitary Gland Adenoma
+EFO:0007626	emphysema imaging measurement
+EFO:0007628	gas trapping measurement
+EFO:0007646	amyloid plaque accumulation rate
+EFO:0000203	multiple myeloma, monoclonal gammopathy
+MONDO:0010805	bladder exstrophy
+EFO:0007743	influenza A severity measurement
+EFO:1001488	influenza A (H1N1)
+EFO:1001250	rotator cuff tear
+HP:0001634	Mitral valve prolapse
+EFO:0009698	gestational blood glucose measurement
+EFO:0009959	diverticular disease
+MONDO:0002253	spondylosis
+MONDO:0024290	enuresis
+EFO:0600024	Herpes Zoster, response to tofacitinib
+EFO:1001295	microscopic colitis
+EFO:1000391	Nasal Cavity Polyp
+Orphanet:1945	Rolandic epilepsy
+EFO:0007041	obese body mass index status
+MONDO:0024647	urolithiasis
+EFO:0004145	response to statin, myopathy
+MONDO:0019938	anorectal malformation
+EFO:0010140	opioid overdose severity measurement
+EFO:0009352	Anti-Helicobacter pylori IgG measurement
+EFO:0009339	Herpes simplex virus 2 seropositivity
+EFO:0009350	Anti-herpes simplex virus 2 IgG measurement
+EFO:0009353	Anti-Toxoplasma gondii IgG measurement
+EFO:0009340	Varicella zoster virus seropositivity
+EFO:0009351	Anti-varicella zoster virus IgG measurement
+EFO:0009347	Anti-cytomegalovirus IgG measurement
+EFO:0000373	congestive heart failure
+EFO:0004289	lymphoid leukemia
+EFO:0021491	caudate volume change measurement
+EFO:0005952	non-Hodgkins lymphoma
+MONDO:0018469	pulmonary non-tuberculous mycobacterial infection
+EFO:0021492	hippocampus volume change measurement
+EFO:0021524	non-alcoholic pancreatitis
+EFO:0005689	non-high density lipoprotein cholesterol measurement
+EFO:0007229	cryptococcosis
+EFO:0010098	anxiety, stress-related disorder
+EFO:1000971	hyperemesis gravidarum
+EFO:1001132	pseudotumor cerebri
+EFO:0009132	cholesterol efflux capacity measurement
+EFO:0009382	metabolically healthy obesity
+EFO:0009961	Insulinogenic index measurement
+EFO:0009658	response to radiation, adverse effect
+EFO:0006946	behavioural disinhibition measurement
+EFO:0021536	irritable bowel syndrome symptom measurement
+EFO:0010129	breakfast skipping measurement
+EFO:0009705	response to non-steroidal anti-inflammatory, small intestine enteropathy
+EFO:0010071	cardiac troponin I measurement
+MONDO:0011705	lymphangioleiomyomatosis
+EFO:1001754	Abruptio Placentae
+EFO:0009276	ventricular ectopy
+EFO:0009277	supraventricular ectopy
+EFO:0009130	clostridium difficile infection
+EFO:1001267	Aortic Coarctation
+EFO:0009369	diffusing capacity of the lung for carbon monoxide
+EFO:0010231	sterol measurement
+EFO:0011031	intestinal permeability measurement
+EFO:0009460	rheumatoid arthritis, ACPA-negative rheumatoid arthritis
+MONDO:0021084	vision disorder
+MONDO:0019200	retinitis pigmentosa
+MONDO:0006715	coronary stenosis
+MONDO:0015494	isolated dystonia
+EFO:1001164	SAPHO syndrome
+EFO:1001354	Kleine-Levin Syndrome
+MONDO:0000153	transposition of the great arteries
+EFO:0600032	congenital right-sided heart lesions
+MONDO:0002078	heart septal defect
+EFO:0020066	diacylglycerol 38:4 measurement
+EFO:0020067	diacylglycerol 38:5 measurement
+EFO:0020065	diacylglycerol 38:3 measurement
+EFO:0020058	diacylglycerol 34:0 measurement
+EFO:0020069	diacylglycerol 44:7 measurement
+EFO:0020055	diacylglycerol 32.2 measurement
+EFO:0020063	diacylglycerol 36:4 measurement
+EFO:0020064	diacylglycerol 36:5 measurement
+EFO:0020062	diacylglycerol 36:3 measurement
+EFO:0020068	diacylglycerol 42:7 measurement
+EFO:0020070	diacylglycerol 44:6 measurement
+EFO:0020056	diacylglycerol 33:1 measurement
+EFO:0020059	diacylglycerol 34:3 measurement
+EFO:0003106	pneumonia
+EFO:0003781	carotid artery disease
+MONDO:0021081	anti-NMDA receptor encephalitis
+EFO:0020103	childhood gender nonconformity
+MONDO:0021392	polyp of large intestine
+MONDO:0002494	age at diagnosis, substance-related disorder
+EFO:0801077	cystic fibrosis-related diabetes
+EFO:0009355	Anti-measles virus IgG measurement
+EFO:0801089	anti-influenza A subtype H1N1 IgG measurement
+EFO:0801090	anti-influenza A subtype H3N2 IgG measurement
+EFO:0003964	hip fracture
+EFO:1000938	fibromuscular dysplasia
+EFO:1001422	Sertoli Cell-Only Syndrome
+EFO:1000049	pulmonary tuberculosis
+OBA:2050099	age of onset of anorexia nervosa
+MONDO:0001627	dementia
+EFO:0007462	REM sleep behavior disorder
+EFO:0801140	C36:4 phosphatidylethanolamine measurement
+EFO:0801146	C38:6 phosphatidylethanolamine measurement
+EFO:0003777	heart disease
+EFO:0004198	skin neoplasm
+EFO:1000653	sarcopenia
+EFO:0010814	proinsulin measurement
+EFO:0803368	internet addiction disorder
+OBA:2001015	age of onset of childhood onset asthma
+OBA:2001001	age of onset of asthma
+EFO:1001304	Dental enamel hypoplasia
+MONDO:0026045	prurigo nodularis
+EFO:0803370	photoreceptor cell layer thickness measurement
+EFO:1000860	cerebral atherosclerosis
+MONDO:0100431	migraine without aura
+EFO:0020095	trochanter bone mineral density
+EFO:0003868	mouth neoplasm
+EFO:0600095	primary dental caries
+EFO:0021816	right ventricular ejection fraction measurement
+EFO:0021817	right ventricular stroke volume measurement
+EFO:0010555	left ventricular stroke volume measurement
+EFO:0010556	Left ventricular mass to end-diastolic volume ratio
+EFO:0007236	diffuse idiopathic skeletal hyperostosis
+EFO:0007428	periodic limb movement disorder
+EFO:0007323	inclusion body myositis
+EFO:0600038	plasma clozapine measurement
+EFO:0600039	plasma N-desmethylclozapine measurement
+EFO:0600040	plasma clozapine-to-N-desmethylclozapine ratio measurement
+EFO:0009565	radiation-induced disorder
+EFO:0001666	aortic aneurysm
+MONDO:0002462	glomerulonephritis
+EFO:0004799	cholelithiasis
+EFO:1001513	liver neoplasm
+EFO:0000538	hypertrophic cardiomyopathy
+EFO:0004283	goiter
+MONDO:0008277	stomach polyp
+EFO:0009454	duodenal ulcer, gastric ulcer
+EFO:0003014	breast fibrocystic disease
+EFO:0006862	Meniere disease
+EFO:1000018	bladder disease
+EFO:0003877	sleep apnea
+EFO:0007510	tinea
+EFO:0004276	Stevens-Johnson syndrome
+EFO:0003833	brain neoplasm
+MONDO:0004822	bronchiectasis
+EFO:0009661	bronchitis
+EFO:0009545	esophageal varices
+EFO:0007167	Bell's palsy
+MONDO:0021416	polyp of gallbladder
+MONDO:0021400	polyp of colon
+EFO:0005319	contact dermatitis
+EFO:1000025	cystitis
+EFO:1001869	dysentery
+MONDO:0002076	pneumothorax
+EFO:0007490	spinal stenosis
+EFO:0000713	subarachnoid hemorrhage
+EFO:0009551	heart valve disease
+EFO:0004143	carpal tunnel syndrome
+EFO:0009562	polyneuropathy
+EFO:1000997	iritis
+EFO:0009448	pulmonary fibrosis
+EFO:0003966	eye disease
+EFO:0000701	skin disease
+EFO:1000869	chronic interstitial cystitis
+EFO:1001141	pyelonephritis
+EFO:0005531	urticaria
+EFO:1001393	Periodontal Pocket
+EFO:1001864	uterine prolapse
+EFO:1001231	uveitis
+OBA:2001012	age of onset of type 1 diabetes mellitus
+EFO:1000906	dry eye syndrome
+EFO:0600019	COVID-19 symptoms measurement
+EFO:0020097	QRS-T angle
+EFO:1000910	dysplasia of cervix
+EFO:0009290	left ventricular mass index
+EFO:1000627	thyroid disease
+MONDO:0024664	hypertension, pregnancy-induced
+EFO:0009287	interventricular septum thickness
+MONDO:0001039	tonsillitis
+EFO:0007429	peritonsillar abscess
+EFO:0803377	metachronous colorectal adenoma
+EFO:0008521	rhinitis
+MONDO:0004867	upper respiratory tract disorder
+MONDO:0002436	nasal disorder
+MONDO:0000368	extrapulmonary tuberculosis
+EFO:0009540	dental pulp disease
+MONDO:0020592	disorder of pharynx
+EFO:0007338	Lassa fever
+EFO:0020075	urine glucose measurement
+EFO:0020881	glucose change measurement
+MONDO:0004235	diverticulitis
+EFO:0009435	response to TNF antagonist, arthritis disease activity score measurement
+MONDO:0001422	primary aldosteronism
+EFO:0006803	vasculitis
+EFO:0009396	hippocampal CA4 volume
+EFO:0009402	hippocampus fimbria volume
+EFO:0010083	dentate gyrus volume measurement
+EFO:0009395	hippocampal CA3 volume
+EFO:0009394	hippocampal CA1 volume
+EFO:0009401	hippocampal amigdala transition area volume
+EFO:0009397	hippocampus molecular layer volume
+EFO:0009405	parasubiculum volume
+EFO:0009400	presubiculum volume
+EFO:0009399	subiculum volume
+OBA:2001029	age of onset of multiple sclerosis
+EFO:1000710	hidradenitis suppurativa
+EFO:0009681	post term pregnancy
+EFO:0009682	pregnancy disorder
+EFO:1001892	nervousness, generalized anxiety disorder
+EFO:0001668	human papilloma virus infection
+EFO:0004712	podoconiosis
+MONDO:0010383	fragile X syndrome
+EFO:0009392	glucose metabolism decline measurement
+MONDO:0012061	familial sick sinus syndrome
+MONDO:0041052	postherpetic neuralgia
+EFO:0008399	mean fractional anisotropy measurement
+MONDO:0019472	extranodal nasal NK/T cell lymphoma
+EFO:0009784	central serous retinopathy
+Orphanet:101960	Genetic chronic primary adrenal insufficiency
+EFO:0009759	Chronic Obstructive Asthma
+EFO:0009855	frontal fibrosing alopecia
+EFO:0009177	myopic maculopathy severity measurement
+EFO:0009441	Waldenstrom macroglobulinemia
+EFO:0009704	response to radiation, radiation-induced brain injury
+EFO:0009357	Anti-rubella virus IgG measurement
+EFO:0008464	glucose-dependent insulinotropic peptide measurement
+EFO:0008465	glucagon-like peptide-1 measurement
+MONDO:0004247	peptic ulcer disease
+MONDO:0001437	pulmonary alveolar proteinosis
+EFO:0005046	cutaneous Leishmaniasis
+EFO:0009706	type 1 diabetes mellitus, latent autoimmune diabetes in adults
+EFO:0001425	ischemic cardiomyopathy
+EFO:0009783	carotid atherosclerosis
+EFO:0009267	delirium
+EFO:0009752	Alzheimer disease, visuospatial impairment
+EFO:1001282	Candidemia
+EFO:0600031	response to benznidazole
+EFO:0005585	shigellosis
+EFO:0010080	geographic atrophy lesion growth
+EFO:0009410	uterine fibroid measurement
+EFO:0009403	granule cell layer dentate gyrus volume
+EFO:0009398	hippocampal tail volume
+EFO:0009404	hippocampal fissure volume
+EFO:0010060	chronic human papillomavirus infection
+EFO:0011053	response to immune checkpoint inhibitor, immune system toxicity
+EFO:0009946	low density lipoprotein triglyceride measurement
+EFO:0004783	TEMPS-A questionnaire
+EFO:1000941	frozen shoulder
+EFO:0008601	pemphigus foliaceus
+EFO:0007144	amebiasis
+EFO:1001436	thyroid nodule
+EFO:0009761	periprosthetic osteolysis
+EFO:0007537	vestibular neuronitis
+EFO:0021525	renal overload-type gout
+EFO:0600004	retinal nerve fibre layer thickness measurement
+EFO:0600005	ganglion cell inner plexiform layer thickness measurement
+EFO:0600002	retinal layer thickness measurement
+EFO:0009552	hemorrhoid
+EFO:0008615	Cystic Kidney Disease
+EFO:0002427	myeloid neoplasm
+MONDO:0021661	coronary atherosclerosis
+EFO:0005775	aortic disease
+EFO:0008493	cerebral small vessel disease
+EFO:0003860	pancreatic neoplasm
+MONDO:0004790	FEV change measurement, fatty liver disease
+EFO:1000273	Gastric Metaplasia
+OBA:2001017	atopic eczema, age of onset of allergic disease
+EFO:0005803	hematologic disease
+MONDO:0002243	hemorrhagic disease
+EFO:0009477	vertebral joint disease
+EFO:1001155	retinal drusen
+EFO:0009606	macular degeneration
+MONDO:0003608	optic atrophy
+EFO:0007493	spondylolisthesis
+EFO:1001375	Myocardial Ischemia
+EFO:0000589	metabolic disease
+EFO:0020941	lysophosphatidylcholine 15:0 measurement
+EFO:0009714	chronic disease
+EFO:0005799	neonatal abstinence syndrome
+EFO:0600096	permanent dental caries
+MONDO:0600030	B-cell acute lymphoblastic leukemia with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)
+EFO:0005530	Trypanosoma cruzi seropositivity
+MONDO:0024633	hypertensive nephropathy
+EFO:0007386	Mycobacterium avium complex disease
+EFO:1001791	femoral hernia
+EFO:0009029	Central precocious puberty
+MONDO:0001336	familial hyperlipidemia
+EFO:0009341	Helicobacter pylori seropositivity
+EFO:0009344	Rubella virus seropositivity
+EFO:0020863	response to clopidogrel, response to acetylsalicylate, major adverse cardiovascular event measurement
+EFO:0007527	tropical spastic paraparesis
+EFO:0007187	bullous pemphigoid
+Orphanet:95711	Congenital hypothyroidism due to developmental anomaly
+EFO:0010056	liver iron measurement
+MONDO:0000166	encephalopathy, acute, infection-induced
+EFO:0003869	breast neoplasm
+OBA:2040155	age of onset of stroke disorder
+EFO:0008583	acute myocardial infarction
+EFO:1001395	Phlebitis
+EFO:0001063	deafness
+MONDO:0002025	psychiatric disorder
+EFO:0003875	peripheral vascular disease
+EFO:0005223	acute stress reaction
+MONDO:0000890	Zika virus congenital syndrome
+EFO:0600064	serum lipopolysaccharide activity
+EFO:0600077	cardiac troponin I change measurement
+EFO:0020104	pelvis bone mineral density
+EFO:0020105	trunk bone mineral density
+EFO:0009909	albuminuria, glomerular filtration rate, stage 5 chronic kidney disease
+EFO:0010357	lysophosphatidylcholine 16:0 measurement
+EFO:0021473	phosphatidylcholine 36:0 measurement
+EFO:0021811	lysophosphatidylcholine 26:1 measurement
+EFO:0000771	bacterial disease
+EFO:1001789	familial apolipoprotein B hypobetalipoproteinemia
+MONDO:0002342	chondromalacia
+OBA:2001009	age of onset of Parkinson disease
+MONDO:0002907	intracranial thrombosis
+EFO:0801132	C34:2 phosphatidylethanolamine measurement
+EFO:0801136	C36:2 phosphatidylethanolamine measurement
+EFO:0801143	C38:4 phosphatidylethanolamine measurement
+MONDO:0003939	response to statin, muscle tissue disorder
+MONDO:0002026	candidiasis
+EFO:1000824	asphyxia neonatorum
+EFO:0009048	Intrahepatic cholestasis of pregnancy
+EFO:0021792	preeclampsia severity measurement
+MONDO:0019640	posterior urethral valve
+MONDO:0001823	sick sinus syndrome
+MONDO:0001162	impulse control disorder
+EFO:1001145	Raynaud disease
+EFO:0007158	Diarrhea, Infantile, Astroviridae infectious disease
+EFO:0007328	influenza
+EFO:0010282	gastrointestinal disease
+MONDO:0024355	respiratory tract infectious disorder
+EFO:0011048	response to radiation, dermatological toxicity
+MONDO:0019297	response to radiation, lymphedema
+EFO:0021466	phosphatidylcholine 28:0 measurement
+EFO:0021467	phosphatidylcholine 31:0 measurement
+EFO:0021468	phosphatidylcholine 33:0 measurement
+EFO:0021469	phosphatidylcholine 33:1 measurement
+EFO:0021470	phosphatidylcholine 33:2 measurement
+EFO:0021471	phosphatidylcholine 34:5 measurement
+EFO:0021472	phosphatidylcholine 35:5 measurement
+EFO:0021474	phosphatidylcholine 36:6 measurement
+EFO:0021477	phosphatidylcholine 40:7 measurement
+EFO:0021462	lysophosphatidylcholine 22:5 measurement
+EFO:0021463	lysophosphatidylcholine 24:0 measurement
+EFO:0021464	lysophosphatidylcholine 26:0 measurement
+EFO:0021459	lysophosphatidylcholine 22:0 measurement
+EFO:0021460	lysophosphatidylcholine 22:1 measurement
+EFO:0021461	lysophosphatidylcholine 22:4 measurement
+EFO:0021465	lysophosphatidylethanolamine 17:0 measurement
+EFO:0008037	BMI-adjusted fasting blood insulin measurement
+EFO:0021452	lysophosphatidylcholine 17:0 measurement
+EFO:0021455	lysophosphatidylcholine 19:0 measurement
+EFO:0021457	lysophosphatidylcholine 20:1 measurement
+EFO:0021453	lysophosphatidylcholine 17:1 measurement
+EFO:0021454	lysophosphatidylcholine 18:3 measurement
+EFO:0021456	lysophosphatidylcholine 20:0 measurement
+EFO:0021458	lysophosphatidylcholine 20:2 measurement
+EFO:0021475	phosphatidylcholine 38:7 measurement
+EFO:0021476	phosphatidylcholine 39:5 measurement
+EFO:0021478	phosphatidylcholine 40:8 measurement
+EFO:0011057	response to methotrexate, neurotoxicity
+EFO:0009544	esophageal disease
+MONDO:0020547	chronic graft versus host disease
+OBA:2040167	age of onset of cervical dystonia
+EFO:0021425	pigment dispersion syndrome, pigmentary glaucoma
+EFO:0803381	fornix volume measurement
+EFO:0803379	anti-GAD65 autoimmune neurological syndromes
+EFO:0004540	chronic fatigue syndrome
+EFO:1000863	tubal factor infertility, Chlamydophila infectious disease
+Orphanet:101953	Rare dyslipidemia
+EFO:0002496	actinic keratosis
+EFO:0800001	intracranial germ cell tumor
+MONDO:0002443	bruxism
+MONDO:0001703	color vision disorder
+EFO:0007272	testicular hydrocele, filarial elephantiasis
+EFO:0005856	arthritis
+MONDO:0002280	anemia
+MONDO:0013626	psoriasis 14, pustular
+MONDO:0001658	nontoxic goiter
+EFO:0008624	vitreous body disease
+MONDO:0001134	essential hypertension
+EFO:0003830	prostatitis
+EFO:1000848	breast cyst
+EFO:0009620	rib fracture
+EFO:1000015	aldosterone-producing adenoma
+EFO:0000536	hyperplasia
+MONDO:0019636	renal agenesis, unilateral
+EFO:1001069	trait in response to triamcinolone acetonide, ocular hypertension
+EFO:0803361	hoarding disorder
+EFO:0009955	post-operative acute kidney injury
+EFO:0000318	cardiomyopathy
+EFO:1000652	acute pancreatitis
+MONDO:0021108	meningitis
+EFO:0803537	susceptibility to influenza measurement
+OBA:2001000	age of onset of Alzheimer disease
+EFO:0020921	hemorrhagic stroke
+EFO:1000948	gastroparesis
+MONDO:0001042	patellar tendinitis
+EFO:0009688	chemotherapy-induced cytotoxicity measurement, stomatitis
+MONDO:0015517	common variable immunodeficiency
+EFO:0006890	fibrosis
+EFO:1000726	lichen planus
+EFO:0008517	oral lichen planus
+MONDO:0004627	gastritis, duodenitis
+MONDO:0044782	esophageal ulcer
+MONDO:0003689	familial hemolytic anemia

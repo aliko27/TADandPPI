@@ -3,3 +3,5 @@ venv/
 results/
 results_graphs/
 __pycache__/
+.vscode/
+.DS_Store
