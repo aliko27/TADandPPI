@@ -4,8 +4,12 @@
     "SPECIES": "9606",
     "REQUIRED_SCORE": 900,
     "ALIAS_FILE": "data/9606.protein.aliases.v12.0.txt",
-    "GWAS_FILE": "data/gwas_catalog_v1.0.2-associations_e113_r2024-12-19.tsv",
+    "GWAS_FILE": "data/gwas_catalog_v1.0.2-associations_e113_r2025-02-18.tsv",
     "BATCH_SIZE": 200,
     "RANDOM_EDGES_ITERATIONS": 1000,
-    "MIN_NUM_NODES": 4
+    "MIN_NUM_NODES": 4,
+    "ACCESSKEY": "146f044922342401213b0cb09a4e02f8",
+    "BIOGRID_URL": "https://webservice.thebiogrid.org",
+    "ENSEMBL_GENES": "data/genes.txt"
+
 }
